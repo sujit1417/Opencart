@@ -1,0 +1,62 @@
+00:08:20.0196 [TestNG-tests-1] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+00:08:20.0434 [TestNG-tests-2] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+00:08:20.0657 [TestNG-tests-3] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+00:08:21.0461 [TestNG-tests-1] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Register
+00:08:21.0461 [TestNG-tests-1] INFO  testCases.TC_RF_001_AccountRegistrationTest - Providing information in all mandatory fields..
+01:49:16.0319 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pawar\eclipse-workspace\Opencart\master.xml"
+01:49:25.0815 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Starting TC_RF_001_AccountRegistrationTest *****
+01:49:26.0122 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+01:49:26.0937 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Register
+01:49:26.0937 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Providing information in all mandatory fields..
+01:49:29.0035 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Continue
+01:49:29.0035 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Validating confirmation messaage..
+01:49:29.0079 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Test passed
+01:49:29.0079 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Finished TC_RF_001_AccountRegistrationTest *****
+01:49:33.0051 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Starting TC_LF_001_LoginTest *****
+01:49:33.0262 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on My Account link
+01:49:33.0729 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login link
+01:49:35.0084 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login button
+01:49:35.0178 [main] INFO  testCases.TC_LF_001_LoginTest - Test passed
+01:49:35.0179 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Finished TC_LF_001_LoginTest *****
+02:10:55.0062 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pawar\eclipse-workspace\Opencart\master.xml"
+02:11:02.0436 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Starting TC_RF_001_AccountRegistrationTest *****
+02:11:02.0659 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+02:11:03.0644 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Register
+02:11:03.0644 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Providing information in all mandatory fields..
+02:11:05.0662 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Continue
+02:11:05.0662 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Validating confirmation messaage..
+02:11:05.0750 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Test passed
+02:11:05.0750 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Finished TC_RF_001_AccountRegistrationTest *****
+02:11:09.0733 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Starting TC_LF_001_LoginTest *****
+02:11:09.0923 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on My Account link
+02:11:10.0091 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login link
+02:11:43.0106 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pawar\eclipse-workspace\Opencart\master.xml"
+02:11:48.0974 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Starting TC_RF_001_AccountRegistrationTest *****
+02:11:49.0214 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+02:11:49.0952 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Register
+02:11:49.0952 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Providing information in all mandatory fields..
+02:11:51.0946 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Continue
+02:11:51.0946 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Validating confirmation messaage..
+02:11:52.0004 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Test passed
+02:11:52.0008 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Finished TC_RF_001_AccountRegistrationTest *****
+02:11:57.0897 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Starting TC_LF_001_LoginTest *****
+02:11:58.0114 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on My Account link
+02:11:58.0580 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login link
+02:11:59.0978 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login button
+02:12:00.0062 [main] INFO  testCases.TC_LF_001_LoginTest - Test passed
+02:12:00.0062 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Finished TC_LF_001_LoginTest *****
+02:16:48.0101 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pawar\eclipse-workspace\Opencart\master.xml"
+02:16:53.0475 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Starting TC_RF_001_AccountRegistrationTest *****
+02:16:53.0727 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on My Account
+02:16:54.0455 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Register
+02:16:54.0455 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Providing information in all mandatory fields..
+02:16:56.0672 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Clicked on Continue
+02:16:56.0672 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Validating confirmation messaage..
+02:16:56.0781 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - Test passed
+02:16:56.0788 [main] INFO  testCases.TC_RF_001_AccountRegistrationTest - ***** Finished TC_RF_001_AccountRegistrationTest *****
+02:17:02.0025 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Starting TC_LF_001_LoginTest *****
+02:17:02.0285 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on My Account link
+02:17:02.0778 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login link
+02:17:04.0400 [main] INFO  testCases.TC_LF_001_LoginTest - Clicked on Login button
+02:17:04.0519 [main] INFO  testCases.TC_LF_001_LoginTest - Test passed
+02:17:04.0519 [main] INFO  testCases.TC_LF_001_LoginTest - ***** Finished TC_LF_001_LoginTest *****
